@@ -1,5 +1,7 @@
 # JSON Inspector
 
+[中文说明](./README_CN.md)
+
 A small Manifest V3 browser extension for inspecting raw JSON documents with [`visual-json`](https://github.com/vercel-labs/visual-json).
 
 It replaces plain JSON pages with a structured viewer, keeps the original URL visible, and provides a compact raw-text fallback when needed. The project is intended for personal or internal use rather than store distribution.
